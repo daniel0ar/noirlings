@@ -9,9 +9,6 @@
 // Other exercises will require you to write Noir code to make the exercise file compile.
 // Remove "I AM NOT DONE" comment when you are ready to move to the next exercise.
 
-
-// I AM NOT DONE
-
 fn main(x : Field, y : pub Field) {
     assert(x != y);
 }
